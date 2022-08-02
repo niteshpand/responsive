@@ -66,6 +66,7 @@ body {
     background: #009578;
     color: #eeeeee;
     font-weight: bold;
+    overflow: hidden;
 }
 
 .controls_button:active {
