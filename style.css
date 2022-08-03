@@ -25,7 +25,7 @@ body {
 
 .container {
     display: grid;
-    grid-template-columns: 1fr 7% 1fr;
+    grid-template-columns: 1fr 7vw 1fr;
     align-items: center;
     height: 100vh;
     box-sizing: border-box;
