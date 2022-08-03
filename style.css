@@ -57,7 +57,7 @@ body {
 }
 
 .controls_button {
-    padding: 8px 14px;
+    padding: 0.5vw 0.875vw;
     width: 100%;
     margin-bottom: 10px;
     border-radius: 5px;
@@ -67,6 +67,7 @@ body {
     color: #eeeeee;
     font-weight: bold;
     overflow: hidden;
+    font-size: 1.2vw;
 }
 
 .controls_button:active {
